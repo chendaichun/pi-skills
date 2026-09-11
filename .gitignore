@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# 本地私密配置（不要提交）
+secrets.py
+*.env
+.env
